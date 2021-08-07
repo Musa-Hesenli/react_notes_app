@@ -1,0 +1,1 @@
+export const colors = ["#dc3545", "green", "lightblue", "lightgray", "aqua"];
